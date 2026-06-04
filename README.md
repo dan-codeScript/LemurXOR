@@ -22,21 +22,21 @@ pip install Pillow numpy
 
 ```
 
-## 🚀 Utilisation
+## Utilisation
 
 1. Clonez ce dépôt.
 2. Placez vos deux images chiffrées (par exemple `image1.png` et `image2.png`) dans le même répertoire que le script.
 3. Exécutez le script :
 
 ```bash
-┌──(venv)─(mavericks㉿kali)-[~/CTF/VisualXOR]
+┌──(venv)─(mavericks㉿kali)-[~/CTF/lemurXOR]
 └─$ python3 lemur.py
 
 ```
 
 Le script générera automatiquement un fichier `drapeau_revele.png` dans le répertoire courant contenant la superposition en clair des deux images.
 
-## 🧠 Sous le capot : La Mathématique du XOR
+## Sous le capot : La Mathématique du XOR
 
 Ce script exploite les propriétés fondamentales de l'opérateur OU exclusif (XOR, noté ⨁).
 
