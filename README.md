@@ -52,8 +52,6 @@ C1 ⨁ C2 = (I1 ⨁ K) ⨁ (I2 ⨁ K) = I1 ⨁ I2
 
 Le résultat est une fusion visuelle des deux images d'origine, rendant le secret lisible à l'œil nu.
 
-## 🛡️ Avertissement
+## Avertissement
 
 Ce script a été développé à des fins éducatives et d'entraînement pour la cybersécurité offensive et défensive.
-
-```
